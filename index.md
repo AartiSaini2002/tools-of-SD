@@ -8,7 +8,7 @@ I *will* complete these lessons!
 
 If you're thinking to yourself, *This is unbelievable*, you'd probably be right.
 
-### Lesson 3 : Headers
+### Lesson 2 : Headers
 # Header one
 ## Header two
 ### Header three
@@ -100,3 +100,7 @@ To doubt they were kneeling then.
 2. Pour a gallon of milk into the bowl.  
    Basically, take the same guidance as above: don't be messy, but if you are, clean it up!
 
+### Lesson 8 : Student Tables
+
+## Lessons
+- [Lesson 8 : Student Tables](Table.md)
